@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bgobbler9
 - 👀 I’m interested in data analysis
 
-- 💞️ I’m looking to collaborate on collaborate on PYTHON, SQL, EXCEL, and DATA VISUALIZATION PROJECTS Using POWER BI or TABLEAU
+- 💞️ I’m looking to collaborate on PYTHON, SQL, EXCEL, and DATA VISUALIZATION PROJECTS Using POWER BI or TABLEAU
   
 
 <!---
